@@ -1,0 +1,41 @@
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs y temporales
+*.log
+*.tmp
+*.bak
+
+# Variables de entorno (MUY IMPORTANTE)
+.env
+
+# Archivos de sistema
+*.swp
+*.swo
+
+# Data opcional (decide tú)
+# data/
+
+#otros archivos omitidos
+
+*.csv
+*.parquet
+/Datos originales
