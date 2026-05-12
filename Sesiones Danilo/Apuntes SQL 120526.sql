@@ -1,0 +1,17 @@
+-- con 2 -- escribo un comentario
+-- SQL Server funciona Transact-SQL es una versión propia de 
+-- Microsoft, ANSI-SQL es el estandard
+-- Trabajar con variables, condicionales, con bucles, try/catch
+-- SQL = Consultar datos
+-- Con TRANSACT programar dentro del servidor
+-- Tenemos 2 tipos de sentencias SQL
+-- DML -> Data Manipulation Language
+-- Select = selecciona datos, pero no los modifica
+-- Insert into = para insertar filas
+-- Update = para modificar datos
+-- Delete = para eliminar registros
+-- DDL -> Data Definition Language
+-- CREATE, ALTER, DROP, TRUNCATE, BK
+-- Ver los registros de la tabla pedidos
+SELECT * FROM Pedidos;
+-- Todas las columnas y todas las filas
