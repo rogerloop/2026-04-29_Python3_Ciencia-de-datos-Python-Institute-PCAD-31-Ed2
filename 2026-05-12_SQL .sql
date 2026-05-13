@@ -14,3 +14,5 @@
 -- Ver los registros de la tabla pedidos
 
 SELECT * FROM Pedidos;
+
+
