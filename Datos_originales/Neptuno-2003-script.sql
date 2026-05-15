@@ -29,8 +29,8 @@
 #   datetimetype=DATETIME
 #
 
-CREATE DATABASE IF NOT EXISTS `Neptuno-2003`;
-USE `Neptuno-2003`;
+CREATE DATABASE IF NOT EXISTS `Neptuno`;
+USE `Neptuno`;
 
 #
 # Table structure for table 'Categorías'
